@@ -4,7 +4,8 @@
   "description": "A C library for parsing version numbers according to the Semantic Versioning 2.0.0 specification.",
   "main": "index.js",
   "scripts": {
-    "version": "./scripts/update-clib-json && test -d .git && git add clib.json"
+    "version": "./scripts/update-clib-json && test -d .git && git add clib.json",
+    "install": "clib install --skip-cache"
   },
   "keywords": [
     "semver",
