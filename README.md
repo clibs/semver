@@ -11,7 +11,7 @@ $ clib install semver
 
 ## Usage
 
-See (EddyLuten/lib-semver)[https://github.com/EddyLuten/lib-semver]
+See [EddyLuten/lib-semver](https://github.com/EddyLuten/lib-semver)
 
 ## License
 
