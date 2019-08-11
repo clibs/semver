@@ -1,6 +1,6 @@
 {
   "name": "semver",
-  "version": "0.0.3-alpha",
+  "version": "master",
   "repo": "EddyLuten/lib-semver",
   "src": [
     "include/semver.h",
