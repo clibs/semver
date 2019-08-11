@@ -1,0 +1,16 @@
+{
+  "name": "semver",
+  "version": "0.0.3-alpha",
+  "description": "A C library for parsing version numbers according to the Semantic Versioning 2.0.0 specification.",
+  "main": "index.js",
+  "scripts": {
+    "version": "./scripts/update-clib-json && test -d .git && git add clib.json"
+  },
+  "keywords": [
+    "semver",
+    "c",
+    "library"
+  ],
+  "author": "https://github.com/EddyLuten",
+  "license": "MIT"
+}

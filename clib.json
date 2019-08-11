@@ -1,0 +1,9 @@
+{
+  "name": "semver",
+  "version": "0.0.3-alpha",
+  "repo": "EddyLuten/lib-semver",
+  "src": [
+    "include/semver.h",
+    "source/semver.c"
+  ]
+}
