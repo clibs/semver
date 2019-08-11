@@ -2,7 +2,7 @@
   "name": "semver",
   "version": "master",
   "repo": "EddyLuten/lib-semver",
-  "makefile": "scripts/fix-includes.sh",
+  "makefile": "https://git.io/fj7A4#https://github.com/clibs/semver/blob/master/scripts/fix-includes.sh",
   "install": "sh scripts/fix-includes.sh",
   "src": [
     "include/semver.h",
